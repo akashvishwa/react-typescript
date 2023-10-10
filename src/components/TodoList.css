@@ -1,0 +1,10 @@
+.todo-list-container{
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 1Fr 1Fr;
+    margin-top: 10px;
+    gap: 10px;
+}
